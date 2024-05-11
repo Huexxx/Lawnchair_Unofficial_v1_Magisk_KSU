@@ -51,9 +51,39 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
-/system/system_ext/priv-app/Launcher3QuickStep
-/system/system_ext/priv-app/NexusLauncherRelease
+/system/app/Launcher
+/system/priv-app/AsusLauncherDev
+/system/priv-app/Lawnchair
+/system/priv-app/NexusLauncherPrebuilt
+/system/priv-app/NothingLauncher3
+/system/product/overlay/CustomPixelLauncherOverlay
+/system/product/overlay/CustomPixelLauncherOverlay.apk
+/system/product/overlay/DerpLauncherOverlay.apk
+/system/product/overlay/DerpLauncherQuickStep__auto_generated_rro_product.apk
+/system/product/overlay/Launcher3Overlay.apk
+/system/product/overlay/Launcher3QuickStep__auto_generated_rro_product.apk
+/system/product/overlay/ParanoidLauncherOverlay.apk
+/system/product/overlay/ParanoidLauncherTranslation.apk
 /system/product/overlay/PixelLauncherCustomOverlay.apk
+/system/product/overlay/PixelLauncherIconsOverlay
+/system/product/overlay/PixelLauncherIconsOverlay.apk
+/system/product/overlay/ThemedIconsOverlay.apk
+/system/product/priv-app/NexusLauncherRelease
+/system/product/priv-app/NusantaraLauncherQuickStep
+/system/product/priv-app/ParanoidQuickStep
+/system/product/priv-app/ShadyQuickStep
+/system/product/priv-app/TrebuchetQuickStep
+/system/system_ext/priv-app/ArrowLauncher
+/system/system_ext/priv-app/DerpLauncherQuickStep
+/system/system_ext/priv-app/Launcher3QuickStep
+/system/system_ext/priv-app/Launcher3QuickStepMock
+/system/system_ext/priv-app/Lawnchair
+/system/system_ext/priv-app/MiLahainaExperience
+/system/system_ext/priv-app/NexusLauncherRelease
+/system/system_ext/priv-app/NusantaraLauncherQuickStep
+/system/system_ext/priv-app/ParanoidQuickStep
+/system/system_ext/priv-app/PixelLauncherRelease
+/system/system_ext/priv-app/TrebuchetQuickStep
 "
 
 ##########################################################################################
