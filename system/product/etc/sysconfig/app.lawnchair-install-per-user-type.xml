@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <install-in-user-type package="app.lawnchair">
+        <!-- Unfortunately some things (eg recents) look specifically for launcher in user 0 -->
+        <install-in user-type="SYSTEM" />
+        <install-in user-type="FULL" />
+    </install-in-user-type>
+</config>
