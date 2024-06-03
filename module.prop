@@ -1,7 +1,7 @@
-id=lawnchair.app.unofficial
-name=Lawnchair App Unofficial
+id=lawnchair.debug.app.unofficial
+name=Lawnchair Debug App Unofficial
 version=1.1
 versionCode=1
 author=Huexxx
-description=Lawnchair Unofficial Module for CherishOS
+description=Lawnchair Debug Unofficial Module for CherishOS
 support=
